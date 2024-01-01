@@ -1,0 +1,14 @@
+T:\4 entity\BLL\bin\Debug\BLL.dll
+T:\4 entity\BLL\bin\Debug\BLL.pdb
+T:\4 entity\BLL\bin\Debug\AutoMapper.dll
+T:\4 entity\BLL\bin\Debug\DAL.dll
+T:\4 entity\BLL\bin\Debug\EntityFramework.dll
+T:\4 entity\BLL\bin\Debug\DAL.pdb
+T:\4 entity\BLL\bin\Debug\DAL.dll.config
+T:\4 entity\BLL\bin\Debug\AutoMapper.xml
+T:\4 entity\BLL\bin\Debug\EntityFramework.xml
+T:\4 entity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+T:\4 entity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+T:\4 entity\BLL\obj\Debug\BLL.csproj.CopyComplete
+T:\4 entity\BLL\obj\Debug\BLL.dll
+T:\4 entity\BLL\obj\Debug\BLL.pdb
